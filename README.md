@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, I'm Just Mango (a.k.a. Nguyen Hoang Tuan) - A junior developer form Vietnam. Currently, I am focusing on learning at school and developing Minecraft stuffs. Most of my repositories are private because I'm not ready to start any open-source project. 
+Hello, I'm Just Mango (a.k.a. Nguyen Hoang Tuan) - A junior developer from Vietnam. Currently, I am focusing on learning at school and developing Minecraft stuffs. Most of my repositories are private because I'm not ready to start any open-source project. 
 
 ![JustMangoT's github stats](https://github-readme-stats.vercel.app/api?username=JustMangoT&show_icons=true&theme=gruvbox)
 
