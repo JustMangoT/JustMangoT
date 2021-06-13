@@ -24,26 +24,35 @@ jobs:
           # Templete
           template: classic
 
+          # Uhhhhh...
+          plugin_lines: yes
+
           # Isometric commit calendar
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           
           # Most used languages
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, vue, scala, ejs
+          plugin_languages_ignored: html, css, tex, less, dockerfile, batchfile, makefile, qmake, lex, cmake, gnuplot, vue, scala, ejs
           plugin_languages_details: lines, percentage
           plugin_languages_limit: 10
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
 
-          # Starred topics
-          plugin_topics: yes
-          plugin_topics_sort: stars    # Sort by most starred topics
-          plugin_topics_mode: mastered # Display icons instead of labels
-          plugin_topics_limit: 0       # Disable limitations
-
           # Notable
           plugin_notable: yes
           plugin_notable_repositories: no
 
+          # Starred topics
+          plugin_topics: yes
+          plugin_topics_sort: stars    
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 0      
+
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_secrets: yes 
+          plugin_achievements_limit: 0          
+
           # Order
-          config_order: base.header, isocalendar, languages, notable, topics
+          config_order: base.header, isocalendar, languages, notable, topics, achievements
