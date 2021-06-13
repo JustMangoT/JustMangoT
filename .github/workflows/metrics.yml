@@ -55,7 +55,7 @@ jobs:
           plugin_achievements_limit: 0          
 
           # Order
-          config_order: base.header, isocalendar, languages, notable, topics, achievements
+          config_order: base.header, lines, isocalendar, languages, notable, topics, achievements
       - name: 🦑 Personal metrics (right)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
