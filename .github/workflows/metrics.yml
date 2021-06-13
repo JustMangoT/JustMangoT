@@ -35,20 +35,15 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
 
-          # Coding habits
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-          config_timezone: Asia/Ho_Chi_Minh
-
           # Starred topics
           plugin_topics: yes
           plugin_topics_sort: stars    # Sort by most starred topics
           plugin_topics_mode: mastered # Display icons instead of labels
           plugin_topics_limit: 0       # Disable limitations
 
+          # Notable
+          plugin_notable: yes
+          plugin_notable_repositories: no
+
           # Order
-          config_order: base.header, isocalendar, languages, habits, topics
+          config_order: base.header, isocalendar, languages, notable, topics
