@@ -16,7 +16,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          filename: metrics.github.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header
@@ -60,7 +60,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.personal.anilist.svg
+          filename: metrics.personal.svg
           token: NOT_NEEDED
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
