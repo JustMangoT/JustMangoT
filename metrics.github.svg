@@ -3239,16 +3239,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 474 edited files from 93 commits over last 14 days
+            estimation from 466 edited files from 92 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.95088062324925" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="340.95088062324925" y="0" width="85.36296266278994" height="8" fill="#959DA5"/>
-                    <rect mask="url(#languages-bar)" x="426.3138432860392" y="0" width="33.686156713960806" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="341.14787915034236" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="341.14787915034236" y="0" width="85.4122846586215" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="426.56016380896386" y="0" width="33.43983619103612" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3259,7 +3259,7 @@
                     </div>
                             <small>
                                 <div>3.29k lines</div>
-                                <div>74.12%</div>
+                                <div>74.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3268,8 +3268,8 @@
                       Kotlin
                     </div>
                             <small>
-                                <div>463 lines</div>
-                                <div>7.32%</div>
+                                <div>461 lines</div>
+                                <div>7.27%</div>
                             </small>
                         </div>
                     </section>
@@ -3281,7 +3281,7 @@
                     </div>
                             <small>
                                 <div>1.17k lines</div>
-                                <div>18.56%</div>
+                                <div>18.57%</div>
                             </small>
                         </div>
                     </section>
@@ -3422,7 +3422,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="9.905177682648409 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="9.935744586028674 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
