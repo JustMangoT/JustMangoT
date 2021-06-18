@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1577" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1557" class="">
     <defs>
         <style/>
     </defs>
@@ -3255,16 +3255,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 450 edited files from 97 commits over last 14 days
+            estimation from 418 edited files from 94 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.3099260329307" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="323.3099260329307" y="0" width="97.08465417385605" height="8" fill="#959DA5"/>
-                    <rect mask="url(#languages-bar)" x="420.39458020678677" y="0" width="39.60541979321322" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.79960667299605" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="409.79960667299605" y="0" width="50.20039332700394" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3275,9 +3274,11 @@
                     </div>
                             <small>
                                 <div>2.16k lines</div>
-                                <div>70.28%</div>
+                                <div>89.09%</div>
                             </small>
                         </div>
+                    </section>
+                    <section>
                         <div class="field language details">
                             <div class="field">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
@@ -3285,19 +3286,7 @@
                     </div>
                             <small>
                                 <div>401 lines</div>
-                                <div>8.61%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#959DA5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Shell
-                    </div>
-                            <small>
-                                <div>1.01k lines</div>
-                                <div>21.11%</div>
+                                <div>10.91%</div>
                             </small>
                         </div>
                     </section>
@@ -3438,7 +3427,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.85655022204781 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.892287126934301 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
