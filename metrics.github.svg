@@ -3244,15 +3244,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 383 edited files from 91 commits over last 14 days
+            estimation from 315 edited files from 86 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.6016945562381" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="409.6016945562381" y="0" width="50.39830544376192" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="353.6783486491273" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="353.6783486491273" y="0" width="106.32165135087271" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3262,8 +3262,8 @@
                       Java
                     </div>
                             <small>
-                                <div>2.16k lines</div>
-                                <div>89.04%</div>
+                                <div>887 lines</div>
+                                <div>76.89%</div>
                             </small>
                         </div>
                     </section>
@@ -3274,8 +3274,8 @@
                       Kotlin
                     </div>
                             <small>
-                                <div>402 lines</div>
-                                <div>10.96%</div>
+                                <div>354 lines</div>
+                                <div>23.11%</div>
                             </small>
                         </div>
                     </section>
@@ -3416,7 +3416,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="11.634299420027906 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="11.669190971350217 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
