@@ -1,0 +1,55 @@
+{
+  "OutputMode": {
+    "Path": "OpenTabletDriver.Desktop.Output.AbsoluteMode",
+    "Settings": [],
+    "Enable": true
+  },
+  "Filters": [],
+  "AutoHook": true,
+  "LockUsableAreaDisplay": true,
+  "LockUsableAreaTablet": true,
+  "DisplayWidth": 1920.0,
+  "DisplayHeight": 1080.0,
+  "DisplayXOffset": 960.00006,
+  "DisplayYOffset": 540.0,
+  "TabletWidth": 75.0,
+  "TabletHeight": 60.0,
+  "TabletXOffset": 43.444286,
+  "TabletYOffset": 34.3819,
+  "TabletRotation": 0.0,
+  "EnableClipping": true,
+  "EnableAreaLimiting": false,
+  "LockAspectRatio": false,
+  "XSensitivity": 10.0,
+  "YSensitivity": 10.0,
+  "RelativeRotation": 0.0,
+  "RelativeResetDelay": "00:00:00.1000000",
+  "TipActivationPressure": 1.0,
+  "TipButton": {
+    "Path": "OpenTabletDriver.Desktop.Binding.MouseBinding",
+    "Settings": [
+      {
+        "Property": "Property",
+        "Value": "Left",
+        "HasValue": true
+      }
+    ],
+    "Enable": true
+  },
+  "PenButtons": [
+    null,
+    null
+  ],
+  "AuxButtons": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Tools": [],
+  "Interpolators": []
+}
