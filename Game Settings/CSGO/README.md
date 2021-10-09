@@ -1,6 +1,9 @@
 **LAUNCH OPTIONS:**
+
 ```-noforcemaccel -noforcemparms +fps_max 240 -console -novid -tickrate 128 -rate 786432 +cl_interp_ratio 1```
+
 **VIDEO SETTINGS:**
+
 ```json
 "VideoConfig"
 {
