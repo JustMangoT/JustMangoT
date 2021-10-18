@@ -1,5 +1,3 @@
-<img src="https://lemmmy.pw/osusig/sig.php?colour=hexffff00&uname=JustMango&pp=2&countryrank&removeavmargin&flagshadow&flagstroke&darkheader&darktriangles&opaqueavatar&avatarrounding=4&onlineindicator=undefined&xpbar">
-
 # IN-GAME CONFIGURATION
 
 ![InGame Language and Updates](./Pictures/InGame_Language_Updates.png)
