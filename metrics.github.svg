@@ -3553,8 +3553,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="365.37845057880673" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="365.37845057880673" y="0" width="94.62154942119324" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="364.3922921196671" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="364.3922921196671" y="0" width="95.60770788033291" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3564,8 +3564,8 @@
                       Java
                     </div>
                             <small>
-                                <div>251 lines</div>
-                                <div>79.43%</div>
+                                <div>248 lines</div>
+                                <div>79.22%</div>
                             </small>
                         </div>
                     </section>
@@ -3577,7 +3577,7 @@
                     </div>
                             <small>
                                 <div>76 lines</div>
-                                <div>20.57%</div>
+                                <div>20.78%</div>
                             </small>
                         </div>
                     </section>
