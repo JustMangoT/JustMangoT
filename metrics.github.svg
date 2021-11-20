@@ -3551,15 +3551,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 109 edited files from 23 commits over last 13 days
+            estimation from 108 edited files from 23 commits over last 13 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.37754989524757" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="444.37754989524757" y="0" width="15.622450104752454" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.3457123565159" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="444.3457123565159" y="0" width="15.654287643484134" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
