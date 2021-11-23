@@ -3534,8 +3534,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="455.75540095203223" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.75540095203223" y="0" width="4.244599047967777" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="455.7552172624893" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.7552172624893" y="0" width="4.244782737510694" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
