@@ -3547,16 +3547,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 441 edited files from 37 commits over last 6 days
+            estimation from 448 edited files from 37 commits over last 6 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="454.552099454338" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="454.552099454338" y="0" width="4.632386598949364" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="459.1844860532874" y="0" width="0.8155139467125866" height="8" fill="#4298b8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="455.0163010425356" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.0163010425356" y="0" width="4.237672855856244" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.25397389839185" y="0" width="0.7460261016081702" height="8" fill="#4298b8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3566,8 +3566,8 @@
                       Java
                     </div>
                             <small>
-                                <div>6.98k lines</div>
-                                <div>98.82%</div>
+                                <div>7.56k lines</div>
+                                <div>98.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3577,7 +3577,7 @@
                     </div>
                             <small>
                                 <div>30 lines</div>
-                                <div>0.18%</div>
+                                <div>0.16%</div>
                             </small>
                         </div>
                     </section>
@@ -3589,7 +3589,7 @@
                     </div>
                             <small>
                                 <div>76 lines</div>
-                                <div>1.01%</div>
+                                <div>0.92%</div>
                             </small>
                         </div>
                     </section>
