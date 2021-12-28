@@ -3531,15 +3531,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 165 edited files from 76 commits over last 14 days
+            estimation from 160 edited files from 70 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="433.4530611050556" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="433.4530611050556" y="0" width="26.54693889494437" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.60574931422497" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="434.60574931422497" y="0" width="25.394250685775063" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3549,8 +3549,8 @@
                       Java
                     </div>
                             <small>
-                                <div>3.42k lines</div>
-                                <div>94.23%</div>
+                                <div>3.64k lines</div>
+                                <div>94.48%</div>
                             </small>
                         </div>
                     </section>
@@ -3562,7 +3562,7 @@
                     </div>
                             <small>
                                 <div>264 lines</div>
-                                <div>5.77%</div>
+                                <div>5.52%</div>
                             </small>
                         </div>
                     </section>
@@ -4042,7 +4042,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 2.56m out of 272m repositories
+                      ranked 2.57m out of 272m repositories
                     </span>
                   
                   
