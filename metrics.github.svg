@@ -3544,9 +3544,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.50637346033346" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="441.50637346033346" y="0" width="14.89915785887285" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="456.4055313192063" y="0" width="3.5944686807937014" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.43625049255405" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="441.43625049255405" y="0" width="14.955651546805647" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="456.3919020393597" y="0" width="3.608097960640283" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3556,8 +3556,8 @@
                       Java
                     </div>
                             <small>
-                                <div>3.48k lines</div>
-                                <div>95.98%</div>
+                                <div>3.46k lines</div>
+                                <div>95.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3579,7 +3579,7 @@
                     </div>
                             <small>
                                 <div>138 lines</div>
-                                <div>3.24%</div>
+                                <div>3.25%</div>
                             </small>
                         </div>
                     </section>
