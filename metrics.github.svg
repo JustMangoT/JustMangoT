@@ -2178,16 +2178,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 141 edited files from 53 commits over last 14 days</small>
+                <small>estimation from 128 edited files from 48 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="440.7097366076771" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="440.7097366076771" y="0" width="12.11604685484836" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="452.8257834625254" y="0" width="6.681868343726316" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="459.5076518062517" y="0" width="0.4923481937482549" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.9184904992891" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="448.9184904992891" y="0" width="6.837926647572267" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="455.75641714686134" y="0" width="3.7397356264754507" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.4961527733368" y="0" width="0.5038472266632197" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2199,10 +2199,24 @@
                                 Java
                             </div>
                             <small>
-                                <div>3.95k lines</div>
-                                <div>95.81%</div>
+                                <div>3.93k lines</div>
+                                <div>97.59%</div>
                             </small>
                         </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Kotlin
+                            </div>
+                            <small>
+                                <div>37 lines</div>
+                                <div>0.81%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2212,21 +2226,7 @@
                             </div>
                             <small>
                                 <div>37 lines</div>
-                                <div>1.45%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Kotlin
-                            </div>
-                            <small>
-                                <div>119 lines</div>
-                                <div>2.63%</div>
+                                <div>1.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2468,7 +2468,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 2.34m out of 82m users</span>
+                                    <span class="gh">ranked 2.34m out of 83m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
@@ -2592,7 +2592,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 341k out of 82m users</span>
+                                    <span class="gh">ranked 341k out of 83m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">23</div>
                                     </div>
