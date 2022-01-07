@@ -2189,10 +2189,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.62780881358606" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="448.62780881358606" y="0" width="6.598045072308692" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="455.2258538858947" y="0" width="4.287974371935168" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="459.51382825782986" y="0" width="0.4861717421701142" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.6286299427611" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="448.6286299427611" y="0" width="6.597568660400148" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="455.22619860316127" y="0" width="4.287664758703986" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.5138633618653" y="0" width="0.48613663813474767" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2204,7 +2204,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>4.04k lines</div>
+                                <div>4.05k lines</div>
                                 <div>97.53%</div>
                             </small>
                         </div>
