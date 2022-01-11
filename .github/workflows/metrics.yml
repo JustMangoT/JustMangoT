@@ -68,13 +68,13 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 4
+          plugin_anilist_limit: 5
           plugin_anilist_limit_characters: 22
 
           plugin_music: yes
           plugin_music_provider: spotify 
           plugin_music_mode: top      
-          plugin_music_limit: 4
+          plugin_music_limit: 8
           plugin_music_top_type: tracks 
           plugin_music_time_range: long
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"       
