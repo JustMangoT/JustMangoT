@@ -2162,16 +2162,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 95 edited files from 44 commits over last 14 days</small>
+                <small>estimation from 107 edited files from 52 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.23728937997873" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="396.23728937997873" y="0" width="36.896589699350244" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="433.13387907932895" y="0" width="24.14742483756103" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="457.28130391688995" y="0" width="2.718696083110018" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="411.211729678108" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="411.211729678108" y="0" width="28.231560024717712" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="439.44328970282567" y="0" width="18.476490084826697" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="457.9197797876524" y="0" width="2.080220212347621" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2183,8 +2183,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>676 lines</div>
-                                <div>86.14%</div>
+                                <div>907 lines</div>
+                                <div>89.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2196,7 +2196,7 @@
                             </div>
                             <small>
                                 <div>37 lines</div>
-                                <div>5.25%</div>
+                                <div>4.02%</div>
                             </small>
                         </div>
                     </section>
@@ -2210,7 +2210,7 @@
                             </div>
                             <small>
                                 <div>37 lines</div>
-                                <div>8.02%</div>
+                                <div>6.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2222,7 +2222,7 @@
                             </div>
                             <small>
                                 <div>7 lines</div>
-                                <div>0.59%</div>
+                                <div>0.45%</div>
                             </small>
                         </div>
                     </section>
@@ -2669,7 +2669,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.57m out of 274m repositories</span>
+                                    <span class="gh">ranked 2.58m out of 274m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
