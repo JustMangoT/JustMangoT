@@ -2179,15 +2179,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 68 edited files from 39 commits over last 14 days</small>
+                <small>estimation from 40 edited files from 31 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.4782785221275" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="354.4782785221275" y="0" width="83.83373934226553" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="438.312017864393" y="0" width="21.687982135606983" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="298.73645091359555" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="298.73645091359555" y="0" width="127.89253638897492" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="426.62898730257047" y="0" width="33.37101269742955" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2199,8 +2199,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>386 lines</div>
-                                <div>77.06%</div>
+                                <div>232 lines</div>
+                                <div>64.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2211,8 +2211,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>31 lines</div>
-                                <div>4.71%</div>
+                                <div>30 lines</div>
+                                <div>7.25%</div>
                             </small>
                         </div>
                     </section>
@@ -2226,7 +2226,7 @@
                             </div>
                             <small>
                                 <div>145 lines</div>
-                                <div>18.22%</div>
+                                <div>27.8%</div>
                             </small>
                         </div>
                     </section>
@@ -2392,7 +2392,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.88021902806298 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.0924024640657155 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2673,7 +2673,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.58m out of 276m repositories</span>
+                                    <span class="gh">ranked 2.58m out of 277m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
