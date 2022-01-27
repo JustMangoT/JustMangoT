@@ -2174,16 +2174,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 78 edited files from 32 commits over last 14 days</small>
+                <small>estimation from 75 edited files from 31 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.3937687116253" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="330.3937687116253" y="0" width="61.377683056781855" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="391.77145176840713" y="0" width="43.95291013345512" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="435.72436190186227" y="0" width="24.27563809813772" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.71613660129054" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="329.71613660129054" y="0" width="61.69858960952842" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="391.4147262108189" y="0" width="44.18271315259252" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="435.59743936341147" y="0" width="24.402560636588536" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2195,8 +2195,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>696 lines</div>
-                                <div>71.82%</div>
+                                <div>690 lines</div>
+                                <div>71.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2208,7 +2208,7 @@
                             </div>
                             <small>
                                 <div>149 lines</div>
-                                <div>9.55%</div>
+                                <div>9.6%</div>
                             </small>
                         </div>
                     </section>
@@ -2222,7 +2222,7 @@
                             </div>
                             <small>
                                 <div>172 lines</div>
-                                <div>13.34%</div>
+                                <div>13.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2234,7 +2234,7 @@
                             </div>
                             <small>
                                 <div>66 lines</div>
-                                <div>5.28%</div>
+                                <div>5.3%</div>
                             </small>
                         </div>
                     </section>
@@ -2400,7 +2400,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.153319644079391 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2717,7 +2717,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.84m out of 277m repositories</span>
+                                    <span class="gh">ranked 3.84m out of 278m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
