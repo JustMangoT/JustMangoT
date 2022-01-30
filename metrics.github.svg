@@ -2195,10 +2195,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.52062105773894" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="347.52062105773894" y="0" width="51.0334788937409" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="398.5540999514798" y="0" width="39.15574963609898" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="437.7098495875788" y="0" width="22.290150412421156" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.5158751925065" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="347.5158751925065" y="0" width="51.03563215965908" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="398.5515073521655" y="0" width="39.15740174257927" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.7089090947448" y="0" width="22.291090905255164" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2210,7 +2210,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>907 lines</div>
+                                <div>906 lines</div>
                                 <div>75.55%</div>
                             </small>
                         </div>
@@ -2415,7 +2415,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.4243668720054705 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.6365503080082058 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2732,7 +2732,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.85m out of 278m repositories</span>
+                                    <span class="gh">ranked 3.85m out of 279m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
