@@ -2164,16 +2164,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 116 edited files from 47 commits over last 14 days</small>
+                <small>estimation from 115 edited files from 46 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.1313941419887" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="388.1313941419887" y="0" width="32.60779899985173" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="420.7391931418405" y="0" width="25.018533744894796" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.75772688673527" y="0" width="14.242273113264769" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.1265501995039" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="388.1265501995039" y="0" width="32.60999676480103" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="420.736546964305" y="0" width="25.0202199935296" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.75676695783454" y="0" width="14.243233042165427" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2390,7 +2390,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.848733744010941 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.0609171800136763 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
