@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2153,15 +2153,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 126 edited files from 49 commits over last 14 days</small>
+                <small>estimation from 122 edited files from 48 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.4027421582166" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="444.4027421582166" y="0" width="13.027964095482343" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="457.430706253699" y="0" width="2.5692937463010455" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.2264207081226" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="444.2264207081226" y="0" width="13.190270752752157" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="457.41669146087474" y="0" width="2.5833085391252606" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2173,8 +2173,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>2.04k lines</div>
-                                <div>96.61%</div>
+                                <div>2.02k lines</div>
+                                <div>96.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2199,8 +2199,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>78 lines</div>
-                                <div>2.83%</div>
+                                <div>77 lines</div>
+                                <div>2.87%</div>
                             </small>
                         </div>
                     </section>
@@ -2366,7 +2366,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.1218343600273872 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.334017796030122 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
