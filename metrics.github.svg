@@ -2153,15 +2153,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 88 edited files from 19 commits over last 14 days</small>
+                <small>estimation from 62 edited files from 13 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="452.6059715680767" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="452.6059715680767" y="0" width="4.541762087888347" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.14773365596506" y="0" width="2.852266344034913" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="450.13859674398503" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="450.13859674398503" y="0" width="6.057340440858666" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.1959371848437" y="0" width="3.804062815156318" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2173,8 +2173,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>1.17k lines</div>
-                                <div>98.39%</div>
+                                <div>821 lines</div>
+                                <div>97.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2185,8 +2185,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>6 lines</div>
-                                <div>0.62%</div>
+                                <div>5 lines</div>
+                                <div>0.83%</div>
                             </small>
                         </div>
                     </section>
@@ -2200,7 +2200,7 @@
                             </div>
                             <small>
                                 <div>10 lines</div>
-                                <div>0.99%</div>
+                                <div>1.32%</div>
                             </small>
                         </div>
                     </section>
@@ -2366,7 +2366,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.6071184120465336 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.8193018480492693 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
