@@ -34,7 +34,7 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2197,17 +2197,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 84 edited files from 35 commits over last 14 days</small>
+                <small>estimation from 96 edited files from 43 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="368.16323381933194" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="368.16323381933194" y="0" width="55.69466944380159" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="423.85790326313355" y="0" width="34.22587364036102" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="458.0837769034946" y="0" width="1.5436241610738255" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.62740106456846" y="0" width="0.37259893543161304" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="386.74263479710953" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="386.74263479710953" y="0" width="44.59082206163918" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="431.33345685874866" y="0" width="27.132357482552035" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="458.46581434130076" y="0" width="1.2358717806188624" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.7016861219196" y="0" width="0.29831387808041504" height="8" fill="#3B2F63"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2219,8 +2219,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>632 lines</div>
-                                <div>80.04%</div>
+                                <div>800 lines</div>
+                                <div>84.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2232,7 +2232,7 @@
                             </div>
                             <small>
                                 <div>77 lines</div>
-                                <div>7.44%</div>
+                                <div>5.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2244,7 +2244,7 @@
                             </div>
                             <small>
                                 <div>1 line</div>
-                                <div>0.08%</div>
+                                <div>0.06%</div>
                             </small>
                         </div>
                     </section>
@@ -2258,7 +2258,7 @@
                             </div>
                             <small>
                                 <div>94 lines</div>
-                                <div>12.11%</div>
+                                <div>9.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2270,7 +2270,7 @@
                             </div>
                             <small>
                                 <div>1 line</div>
-                                <div>0.34%</div>
+                                <div>0.27%</div>
                             </small>
                         </div>
                     </section>
@@ -2440,7 +2440,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.848733744010941 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.0609171800136763 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
