@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1195" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1175" class="">
     <defs>
         <style/>
     </defs>
@@ -2187,17 +2187,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 120 edited files from 44 commits over last 14 days</small>
+                <small>estimation from 115 edited files from 36 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="408.0592119096682" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="408.0592119096682" y="0" width="29.510492451322598" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="437.56970436099084" y="0" width="21.385676437192483" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="458.9553807981833" y="0" width="0.8414988014634761" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.7968795996468" y="0" width="0.20312040035325285" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.13281004709575" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="409.13281004709575" y="0" width="29.376452119309263" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="438.509262166405" y="0" width="21.288540031397176" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.7978021978022" y="0" width="0.2021978021978022" height="8" fill="#3B2F63"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2209,8 +2208,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>1.23k lines</div>
-                                <div>88.71%</div>
+                                <div>1.24k lines</div>
+                                <div>88.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2222,19 +2221,7 @@
                             </div>
                             <small>
                                 <div>84 lines</div>
-                                <div>4.65%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3B2F63" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Procfile
-                            </div>
-                            <small>
-                                <div>1 line</div>
-                                <div>0.04%</div>
+                                <div>4.63%</div>
                             </small>
                         </div>
                     </section>
@@ -2248,19 +2235,19 @@
                             </div>
                             <small>
                                 <div>96 lines</div>
-                                <div>6.42%</div>
+                                <div>6.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3B2F63" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Shell
+                                Procfile
                             </div>
                             <small>
                                 <div>1 line</div>
-                                <div>0.18%</div>
+                                <div>0.04%</div>
                             </small>
                         </div>
                     </section>
@@ -2430,7 +2417,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.9096509240246518 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.1218343600273872 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
