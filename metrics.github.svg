@@ -2135,14 +2135,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 156kb of code in 234 edited files across 16 commits over last 14 days</small>
+                <small>estimation from 156kb of code in 222 edited files across 14 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.05099974111806" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="453.05099974111806" y="0" width="6.949000258881934" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.0267350260168" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="453.0267350260168" y="0" width="6.9732649739832056" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2154,8 +2154,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>3.53k lines</div>
-                                <div>98.49%</div>
+                                <div>3.52k lines</div>
+                                <div>98.48%</div>
                             </small>
                         </div>
                     </section>
@@ -2169,7 +2169,7 @@
                             </div>
                             <small>
                                 <div>92 lines</div>
-                                <div>1.51%</div>
+                                <div>1.52%</div>
                             </small>
                         </div>
                     </section>
@@ -2298,7 +2298,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.13655030800821 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.34873374401094 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2337,7 +2337,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.24623115577889 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.0251256281407 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2356,10 +2356,10 @@
                                     <span class="prefix"></span>
                                     Stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">122</div>
+                                        <div class="value">123</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 122 repositories</div>
+                                <div class="text">Starred 123 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2459,7 +2459,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="41.281407035175874 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.83919597989949 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -2477,10 +2477,10 @@
                                     <span class="prefix"></span>
                                     Follower
                                     <div class="value-wrapper">
-                                        <div class="value">54</div>
+                                        <div class="value">56</div>
                                     </div>
                                 </div>
-                                <div class="text">Following 54 users</div>
+                                <div class="text">Following 56 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2530,7 +2530,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 272k out of 95m users</span>
+                                    <span class="gh">ranked 273k out of 95m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">32</div>
                                     </div>
@@ -2659,7 +2659,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.13m out of 330m repositories</span>
+                                    <span class="gh">ranked 2.14m out of 331m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
