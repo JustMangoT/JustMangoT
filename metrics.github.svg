@@ -2156,14 +2156,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 69.4kb of code in 54 edited files across 9 commits over last 14 days</small>
+                <small>estimation from 70.3kb of code in 51 edited files across 7 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.5009096830709" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="439.5009096830709" y="0" width="20.499090316929088" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.99824669062855" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="439.99824669062855" y="0" width="20.00175330937144" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2175,8 +2175,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>1.23k lines</div>
-                                <div>95.54%</div>
+                                <div>1.26k lines</div>
+                                <div>95.65%</div>
                             </small>
                         </div>
                     </section>
@@ -2190,7 +2190,7 @@
                             </div>
                             <small>
                                 <div>92 lines</div>
-                                <div>4.46%</div>
+                                <div>4.35%</div>
                             </small>
                         </div>
                     </section>
@@ -2319,7 +2319,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.25838466803556 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.47056810403836 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
