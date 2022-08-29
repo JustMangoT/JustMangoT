@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2141,14 +2141,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 141kb of code in 205 edited files across 25 commits over last 14 days</small>
+                <small>estimation from 100kb of code in 154 edited files across 19 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.7427737393395" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.7427737393395" y="0" width="1.2572262606605231" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.17636325566093" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="444.17636325566093" y="0" width="15.823636744339089" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2160,8 +2160,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>3.41k lines</div>
-                                <div>99.73%</div>
+                                <div>2.31k lines</div>
+                                <div>96.56%</div>
                             </small>
                         </div>
                     </section>
@@ -2174,8 +2174,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>5 lines</div>
-                                <div>0.27%</div>
+                                <div>114 lines</div>
+                                <div>3.44%</div>
                             </small>
                         </div>
                     </section>
@@ -2308,7 +2308,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.71218343600273 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.92436687200546 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
