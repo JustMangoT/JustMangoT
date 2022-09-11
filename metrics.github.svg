@@ -2152,15 +2152,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 105kb of code in 175 edited files across 36 commits over last 14 days</small>
+                <small>estimation from 97.1kb of code in 177 edited files across 35 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.9431090883231" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="323.9431090883231" y="0" width="134.54340302470013" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.48651211302325" y="0" width="1.513487886976722" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.2155698533214" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="340.2155698533214" y="0" width="112.68510664708195" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="452.9006765004034" y="0" width="5.448207377371372" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="458.34888387777477" y="0" width="1.6511161222252104" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2172,20 +2173,20 @@
                                 Java
                             </div>
                             <small>
-                                <div>1.76k lines</div>
-                                <div>70.42%</div>
+                                <div>1.70k lines</div>
+                                <div>73.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TypeScript
+                                C#
                             </div>
                             <small>
-                                <div>5 lines</div>
-                                <div>0.33%</div>
+                                <div>33 lines</div>
+                                <div>1.18%</div>
                             </small>
                         </div>
                     </section>
@@ -2198,8 +2199,20 @@
                                 Go
                             </div>
                             <small>
-                                <div>1.10k lines</div>
-                                <div>29.25%</div>
+                                <div>801 lines</div>
+                                <div>24.5%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                TypeScript
+                            </div>
+                            <small>
+                                <div>5 lines</div>
+                                <div>0.36%</div>
                             </small>
                         </div>
                     </section>
@@ -2332,7 +2345,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.47056810403836 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.6827515400411 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
