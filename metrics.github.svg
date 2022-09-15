@@ -2143,16 +2143,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 79.6kb of code in 122 edited files across 47 commits over last 14 days</small>
+                <small>estimation from 79.7kb of code in 119 edited files across 46 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="167.95429869965912" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="167.95429869965912" y="0" width="117.59878803181415" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="285.55308673147323" y="0" width="107.85405883095568" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="393.407145562429" y="0" width="66.592854437571" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="167.78695657657428" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="167.78695657657428" y="0" width="117.48161787889872" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="285.268574455473" y="0" width="108.19911967612153" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="393.46769413159456" y="0" width="66.53230586840546" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2165,7 +2165,7 @@
                             </div>
                             <small>
                                 <div>1.07k lines</div>
-                                <div>36.51%</div>
+                                <div>36.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2176,8 +2176,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>756 lines</div>
-                                <div>23.45%</div>
+                                <div>755 lines</div>
+                                <div>23.52%</div>
                             </small>
                         </div>
                     </section>
@@ -2191,7 +2191,7 @@
                             </div>
                             <small>
                                 <div>753 lines</div>
-                                <div>25.56%</div>
+                                <div>25.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2203,7 +2203,7 @@
                             </div>
                             <small>
                                 <div>302 lines</div>
-                                <div>14.48%</div>
+                                <div>14.46%</div>
                             </small>
                         </div>
                     </section>
@@ -2336,7 +2336,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.3193018480493 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.53148528405204 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
