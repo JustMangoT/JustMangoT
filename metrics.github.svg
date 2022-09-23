@@ -2148,10 +2148,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="238.5809538351911" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="238.5809538351911" y="0" width="170.02697612867104" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="408.60792996386215" y="0" width="50.5726065048099" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="459.1805364686721" y="0" width="0.8194635313279381" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="238.76324368378155" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="238.76324368378155" y="0" width="169.7234107579462" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="408.48665444172775" y="0" width="50.69325590872045" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="459.1799103504482" y="0" width="0.8200896495517522" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2164,7 +2164,7 @@
                             </div>
                             <small>
                                 <div>757 lines</div>
-                                <div>51.87%</div>
+                                <div>51.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2175,8 +2175,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>151 lines</div>
-                                <div>10.99%</div>
+                                <div>149 lines</div>
+                                <div>11.02%</div>
                             </small>
                         </div>
                     </section>
@@ -2189,8 +2189,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>575 lines</div>
-                                <div>36.96%</div>
+                                <div>576 lines</div>
+                                <div>36.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2335,7 +2335,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.01676933607119 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.22895277207392 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
