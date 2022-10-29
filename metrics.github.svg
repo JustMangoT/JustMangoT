@@ -2147,14 +2147,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 79kb of code in 52 edited files across 7 commits over last 13 days</small>
+                <small>estimation from 83.3kb of code in 51 edited files across 7 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.8753291002013" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.8753291002013" y="0" width="0.12467089979866812" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.88195327011437" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.88195327011437" y="0" width="0.11804672988561933" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2166,7 +2166,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>2.08k lines</div>
+                                <div>2.19k lines</div>
                                 <div>99.97%</div>
                             </small>
                         </div>
@@ -2314,7 +2314,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.71218343600273 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.92436687200546 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
