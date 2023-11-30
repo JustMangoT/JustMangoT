@@ -1897,10 +1897,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.4)">
+                            <g transform="translate(-1.7, 6.1)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6 0,1.6 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6 1.7,2.6 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9 0,1.9 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9 1.7,2.9 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1945,14 +1945,14 @@
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3 1.7,2.3 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.4)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6 0,1.6 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6 1.7,2.6 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6 0,1.6 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6 1.7,2.6 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.4)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6 0,1.6 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6 1.7,2.6 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6 0,1.6 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6 1.7,2.6 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2074,17 +2074,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 12.1mb of code in 2219 edited files across 173 commits</small>
+                <small>estimation from 12.2mb of code in 2260 edited files across 173 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.9857958501602" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="301.9857958501602" y="0" width="118.3205681659936" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="420.3063640161538" y="0" width="23.11377245508982" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="443.4201364712436" y="0" width="11.17021770412663" height="8" fill="#E22837"/>
-                    <rect mask="url(#languages-bar)" x="454.59035417537024" y="0" width="5.40964582462981" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.0196495277432" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="284.0196495277432" y="0" width="138.64822182403498" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="422.66787135177816" y="0" width="21.738656725483644" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.40652807726184" y="0" width="10.505664044704954" height="8" fill="#E22837"/>
+                    <rect mask="url(#languages-bar)" x="454.91219212196677" y="0" width="5.087807878033225" height="8" fill="#012456"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2097,7 +2097,7 @@
                             </div>
                             <small>
                                 <div>11.8k lines</div>
-                                <div>65.65%</div>
+                                <div>61.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2109,7 +2109,7 @@
                             </div>
                             <small>
                                 <div>733 lines</div>
-                                <div>5.02%</div>
+                                <div>4.73%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2121,7 +2121,7 @@
                             </div>
                             <small>
                                 <div>157 lines</div>
-                                <div>1.18%</div>
+                                <div>1.11%</div>
                             </small>
                         </div>
                     </section>
@@ -2134,8 +2134,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>3.32k lines</div>
-                                <div>25.72%</div>
+                                <div>4.16k lines</div>
+                                <div>30.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2147,7 +2147,7 @@
                             </div>
                             <small>
                                 <div>103 lines</div>
-                                <div>2.43%</div>
+                                <div>2.28%</div>
                             </small>
                         </div>
                     </section>
@@ -2246,7 +2246,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.1697467488021882 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.2546201232032823 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2678,7 +2678,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.59m out of 51.4m repositories</span>
+                                    <span class="gh">ranked 2.59m out of 55.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
