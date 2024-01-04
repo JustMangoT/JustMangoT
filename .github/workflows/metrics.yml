@@ -20,8 +20,8 @@ jobs:
           filename: metrics.github.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          
           base: header, activity, community, repositories, metadata
-
           template: classic
           config_timezone: Asia/Saigon
 
@@ -70,6 +70,10 @@ jobs:
           filename: metrics.personal.svg
           token: NOT_NEEDED
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          base: header, activity, community, repositories, metadata
+          template: classic
+          config_timezone: Asia/Saigon
 
           plugin_wakatime: yes
           plugin_wakatime_days: 7
