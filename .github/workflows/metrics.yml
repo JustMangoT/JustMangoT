@@ -21,7 +21,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           
-          base: header, repositories, metadata
+          base: header, repositories
           template: classic
           config_timezone: Asia/Saigon
 
